@@ -1,2 +1,6 @@
-# Corona-escape
-Simple game with Python and Azure Cosmosdb 
+# Python + Cosmosdb Game
+
+### Steps to Run
+
+Navigate to the folder and run python main.py
+ 

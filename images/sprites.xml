@@ -1,0 +1,14 @@
+<textureatlas xmlns="http://www.w3.org/1999/xhtml" imagepath="spritesheet.png">
+  <subtexture name="left1" x="0" y="0" width="529" height="558"></subtexture>
+  <subtexture name="left2" x="530" y="0" width="529" height="558"></subtexture>
+  <subtexture name="left3" x="1060" y="0" width="529" height="558"></subtexture>
+  <subtexture name="left4" x="0" y="559" width="529" height="558"></subtexture>
+  <subtexture name="left5" x="530" y="559" width="529" height="558"></subtexture>
+  <subtexture name="left6" x="1060" y="559" width="529" height="558"></subtexture>
+  <subtexture name="right1" x="0" y="1118" width="529" height="558"></subtexture>
+  <subtexture name="right2" x="530" y="1118" width="529" height="558"></subtexture>
+  <subtexture name="right3" x="1060" y="1118" width="529" height="558"></subtexture>
+  <subtexture name="right4" x="0" y="1677" width="529" height="558"></subtexture>
+  <subtexture name="right5" x="530" y="1677" width="529" height="558"></subtexture>
+  <subtexture name="right6" x="1060" y="1677" width="529" height="558"></subtexture>
+</textureatlas>
